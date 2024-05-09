@@ -5,4 +5,10 @@ app.get('/', function(req, res) {
   res.send('hello world')
 })
 
-app.listen(3000)
+app.get('/oi', function(req, res){
+  res.send("olá mundo")
+})
+
+app.listen(3000, function(){
+  console.log("Aplicativo rodando na porta 3000")
+})
