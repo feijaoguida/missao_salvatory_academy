@@ -1,0 +1,23 @@
+{
+    "clientName": "Thunder Client",
+    "collectionName": "Crud_em_memoria",
+    "collectionId": "524934e4-7ab9-4fc2-8fe8-c3e8edd58336",
+    "dateExported": "2024-05-10T01:49:24.941Z",
+    "version": "1.2",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "90a2adf5-1219-40e9-80e6-6dc31b72a0bd",
+            "colId": "524934e4-7ab9-4fc2-8fe8-c3e8edd58336",
+            "containerId": "",
+            "name": "localhost:3000",
+            "url": "localhost:3000",
+            "method": "GET",
+            "sortNum": 10000,
+            "created": "2024-05-09T23:46:18.516Z",
+            "modified": "2024-05-09T23:46:18.516Z",
+            "headers": []
+        }
+    ],
+    "ref": "55Rqgsa9uAbxEpVkC2NC_3i4VK5NECvxqlV5Hj0v9IiYhmJkj8UwKIZxm4r7SToO6kRrh7sUxLia7fARqFd0VQ"
+}
